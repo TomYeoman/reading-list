@@ -38,4 +38,4 @@ Psychology
 - https://hackernewsbooks.com/top-books-on-hacker-news
 - https://www.goodreads.com
 - https://www.audible.co.uk/
-- https://github.com/bevacqua/reads/blob/master/readme.markdown ( Gave me inspiration for this list :thumbsup: )
+- https://github.com/bevacqua/reads/blob/master/readme.markdown ( Gave me inspiration to create my own list :thumbsup: )
