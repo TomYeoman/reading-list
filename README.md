@@ -3,8 +3,9 @@
 ## Key
 
 - 👀 - Would like to purchase soon
-- ❌ - Haven't started yet
-- ✅ - In progress 
+- 🌑 - Haven't started yet
+- 🌒 🌓 🌖 - In progress 
+
 - 😍 Strongly suggest reading / would read again
 - 😃 Worth the read
 - 😑 Do not suggest reading
@@ -14,17 +15,19 @@
 - 😍 White hat UX design
 
 ## Languages
-- ✅ Modular javascript
+- 🌑 Modular javascript
 
 ## Self improvement
-
 - 😍 The subtle art of not giving a f*ck
 - 😃 The miracle morning
+- 🌒 How to to stop worrying and start living
+
+Psychology
 - 😍 The talent code
+- 🌒 Atomic habits
 
 ## Marketing/Sales/Negotiation
-
-- ✅ How to win friends and influence people in the modern age
+- 🌒 How to win friends and influence people in the modern age
 
 
 ## Resources ( Where I look to find ideas on what to read ) 
