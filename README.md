@@ -15,15 +15,17 @@
 - 😍 White hat UX design
 
 ## Development Philosophy
--  👀 The Pragmatic Programmer
+-  🌓 The Pragmatic Programmer
 
 ## Languages
-- 🌑 Modular javascript
+- 🌖 Modular javascript
+- 😍 Javascript the hard parts
 
 ## Self improvement
 - 😍 The subtle art of not giving a f*ck
 - 😃 The miracle morning
-- 🌒 How to to stop worrying and start living
+- 🌖 The miracle equation
+- 😃 How to to stop worrying and start living
 
 Psychology
 - 😍 The talent code
