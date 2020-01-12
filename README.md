@@ -1,5 +1,7 @@
 > :books: A list of books ( with reviews / reading status ) i'm keeping an eye on or have read  - Please open a MR if you have any suggestions to add to this list!
 
+:warning: This page has moved to being managed via notion - visit https://www.notion.so/Reading-List-65d3af25dbe5414883d921c98715cfb6 for an upto date list ( Drop down the table view to "all" )
+
 ## Key
 
 - 👀 - Would like to purchase soon
